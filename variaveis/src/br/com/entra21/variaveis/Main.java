@@ -86,7 +86,21 @@ public class Main {
 				JOptionPane.showMessageDialog(null, "Você têm " +minhaIdade+ " anos"+"," + " e está ganhando, "+" R$ " +salario+" reais por mês.");
 				
 				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 		
+				
+				
 		//System.out.println("depois");
 		
 		
