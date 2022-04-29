@@ -28,6 +28,8 @@ public class Main {
 		
 		System.out.println(idadeA+" é maior (>) que "+idadeB+" ? "+resultado);
 		
+		System.out.println(idadeA+" é maior ou igual (>=) que "+idadeB+" ? "+resultado);
+		
 		
 		
 		
