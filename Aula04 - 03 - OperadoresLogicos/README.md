@@ -2,7 +2,7 @@
 
 ## Tipos:
 
-> - E AND && = comparação entre booleans mais restritivos conforme a tabela verdade
+> - E AND && = (comparação entre booleans) mais restritivos conforme a tabela verdade
 
 | A | B | RESULTADO |
 |---|---|-----------|
