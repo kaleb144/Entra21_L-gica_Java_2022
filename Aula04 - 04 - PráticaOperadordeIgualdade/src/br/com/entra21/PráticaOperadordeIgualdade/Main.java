@@ -1,39 +1,32 @@
-package br.com.entra21.OperadoresdeIgualdade;
+package br.com.entra21.PráticaOperadordeIgualdade;
 
 public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Operadores de igualdade");
+		System.out.println("Prática operadores de igualdade. \n");
 		
-		System.out.println("igual == ");
-		
-		byte idadeA,idadeB;
-		
+		byte numeroA,numeroB;
 		boolean resultado;
 		
-		idadeA=5;
-		idadeB=10;
+		numeroA=5;
+		numeroB=10;
 		
-		resultado= idadeA==idadeB;
+		resultado = numeroA==numeroB;
 		
 		System.out.println("Ao comparar a igualdade resultou em " +resultado);
 		
-		resultado = idadeA != idadeB;
+		resultado = numeroA != numeroB;
 		
 		System.out.println("Ao comparar a desigualdade resultou em " +resultado);
+		
+		
+		
+		
+		
+	
+		
 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
