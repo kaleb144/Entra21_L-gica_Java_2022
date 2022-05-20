@@ -247,10 +247,10 @@ public class Main {
        
        
         do {
-            System.out.println("Para o vetor" +vetor+ "e detalhe" +detalhe+ "informe o valor");
+            System.out.println("Para o vetor "+vetor+" e detalhe "+detalhe+" informe o valor");
             matrizBytes[vetor][detalhe] = input.nextByte();
            
-            System.out.println("Gostaria de inicializar outro valô ?");
+            System.out.println("Gostaria de inicializar outro valor ?");
             resposta = input.next();
             if(resposta.equalsIgnoreCase("sim")) {
                 System.out.println("Qual vetor você quer acessar?");
